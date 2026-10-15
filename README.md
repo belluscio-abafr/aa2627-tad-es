@@ -1,5 +1,5 @@
 > **ATTENZIONE — QUESTO È UN REPOSITORY DI PROVA**
-> Non usarlo come modello né come base per il tuo lavoro: serve solo a provare gli strumenti del corso. Per iniziare, si copia il modello ufficiale: https://github.com/belluscio-abafr/aa2627-tad-es-modello
+> Non usarlo come modello né come base per il proprio lavoro: serve solo a provare gli strumenti del corso. Per iniziare, si copia il modello ufficiale: https://github.com/belluscio-abafr/aa2627-tad-es-modello
 
 # Tecnologie e applicazioni digitali 2026/27: esercitazioni
 
@@ -56,7 +56,7 @@ Da qui in avanti si lavora **in Visual Studio Code**, nella cartella scaricata s
    Si scrive un messaggio che dica che cosa è stato fatto, si preme *Commit* e poi *Sincronizza*.
    > Il messaggio non è facoltativo: senza, il pulsante *Commit* non conclude niente, ed è il motivo per cui a volte sembra che non funzioni. Bastano poche parole, come «prima versione di es1» o «colori più scuri e sfondo nero».
 
-Dopo circa un minuto il lavoro è online all'indirizzo `https://belluscio-abafr.github.io/aa2627-tad-es/es1/`, con il proprio nome utente di GitHub al posto di `belluscio-abafr` e la cartella giusta al posto di `es1`.
+Dopo circa un minuto il lavoro è online all'indirizzo `https://belluscio-abafr.github.io/aa2627-tad-es/es1/`, con il proprio nome utente di GitHub al posto di `NOMEUTENTE` e la cartella giusta al posto di `es1`.
 
 Le cartelle si chiamano `es1`, `es2` e così via: sono gli stessi nomi delle consegne sul sito, e non sono nomi liberi, perché su quelli si costruiscono l'indirizzo del lavoro pubblicato e il collegamento con la consegna.
 
@@ -77,12 +77,13 @@ Non è necessario nessun account Google per compilare il modulo.
 
 ## I comandi di OpenCode
 
-Quattro comandi sono stati scritti per questo corso e funzionano solo in questo repository:
+Cinque comandi sono stati scritti per questo corso e funzionano solo in questo repository:
 
 - `/inizio`: scrive il proprio nome e l'indirizzo pubblico del repository;
 - `/crea es1`: crea la cartella dell'esercitazione, leggendo la consegna dal sito del corso;
 - `/verifica es1`: confronta il lavoro con i vincoli della consegna e dice quali non sono rispettati;
-- `/consegna es1`: controlla, pubblica e ricorda l'indirizzo da segnalare.
+- `/consegna es1`: controlla, pubblica e ricorda l'indirizzo da segnalare;
+- `/aggiorna`: porta i file del corso all'ultima versione del modello, senza toccare le esercitazioni.
 
 Gli altri sono di OpenCode e funzionano in qualsiasi cartella. I più utili:
 

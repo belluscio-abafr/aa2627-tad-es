@@ -1,0 +1,10 @@
+/* Lo stile della pagina che contiene lo sketch */
+
+body {
+  margin: 0;
+  background: #fff;
+}
+
+canvas {
+  display: block;
+}
